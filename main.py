@@ -1,7 +1,7 @@
 import telebot
 import os
 
-API_KEY = '5151438780:AAHcatDx7byekbr7UagP-o-lqO5h-aasMZ4'
+
 bot = telebot.TeleBot(API_KEY)
 botname = 'pugos_bot'
 
