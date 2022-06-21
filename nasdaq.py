@@ -2,8 +2,7 @@ from bokeh.plotting import figure
 from bokeh.models.callbacks import CustomJS
 from bokeh.models import HoverTool
 
-API = "3N5KtxdoZvy45s4GKes4"
-fred = 'e191e6803f0ca79c8a305ea9249cb4b2'
+
 
 
 def create_fig(title, legend_label, x_label, y_label, source, x, y, x_data_range, tooltip_format, vtooltip=False,
